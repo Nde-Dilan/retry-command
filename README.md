@@ -2,6 +2,9 @@
 
 A simple Bash script that automatically retries failed commands a specified number of times before giving up. This utility helps when dealing with commands that may fail intermittently due to network issues, rate limits, or other temporary problems.
 
+
+![Command Screenshot](Code_KhOjTahWuC.png)
+
 ## Features
 
 - Automatically retries commands when they fail
